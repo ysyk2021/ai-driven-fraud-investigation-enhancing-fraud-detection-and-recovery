@@ -1,5 +1,3 @@
-Understanding the Role of AI in Fraud Detection and Recovery
-======================================================================================================================
 
 AI-driven fraud investigation is a rapidly evolving field that has the potential to revolutionize traditional methods of fraud detection and recovery. In this chapter, we will explore the role of AI in fraud detection and recovery.
 

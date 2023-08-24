@@ -1,5 +1,3 @@
-Importance of Ethical and Unbiased Fraud Investigation Practices
-======================================================================================================================================
 
 In this chapter, we'll explore the importance of managing ethics and bias in AI-driven fraud investigation. As AI technology becomes more prevalent in fraud investigation, it's essential to ensure that ethical and unbiased practices are followed to maintain integrity and fairness.
 

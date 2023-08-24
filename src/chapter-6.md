@@ -1,5 +1,3 @@
-Chapter 6: Managing Ethics and Bias in AI-Driven Fraud Investigation
-====================================================================
 
 Ethical and unbiased fraud investigation practices are critical to maintaining public trust in the justice system. However, the use of AI in fraud investigation raises unique ethical concerns and risks that must be addressed. In this chapter, we will explore ways to manage ethics and bias in AI-driven fraud investigation.
 

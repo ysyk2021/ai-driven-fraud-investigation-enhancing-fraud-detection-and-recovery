@@ -1,5 +1,3 @@
-Emerging Trends in AI for Fraud Investigation and Management
-==========================================================================================================================================
 
 AI-driven fraud investigation is a rapidly evolving field, with new trends and opportunities emerging all the time. In this chapter, we will explore some of the emerging trends in AI for fraud investigation and management.
 

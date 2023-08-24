@@ -1,4 +1,3 @@
-# Overview of Available Tools and Technologies
 
 In recent years, the advancement of artificial intelligence (AI) has revolutionized the field of fraud investigation. AI-driven tools and technologies have become crucial in detecting and mitigating various types of fraudulent activities. This chapter provides an overview of the available tools and technologies used in AI-driven fraud investigation, highlighting their functionalities and benefits.
 

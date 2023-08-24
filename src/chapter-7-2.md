@@ -1,5 +1,3 @@
-Unlocking New Opportunities with AI
-=================================================================================================================
 
 AI-driven fraud investigation is a constantly evolving field, with new opportunities emerging all the time. In this chapter, we will explore some of the new opportunities that AI can unlock for fraud investigation.
 

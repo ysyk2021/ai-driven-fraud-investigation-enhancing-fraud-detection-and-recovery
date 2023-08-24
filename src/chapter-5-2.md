@@ -1,5 +1,3 @@
-Personalized Recovery Recommendations and Interventions using AI
-=============================================================================================================
 
 Fraud can have serious financial and reputational consequences for individuals and organizations. While fraud detection is important, it is also crucial to have effective strategies in place for recovering losses and preventing future incidents. In this chapter, we will explore how AI can be used to improve fraud recovery by providing personalized recommendations and interventions.
 

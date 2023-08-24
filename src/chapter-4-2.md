@@ -1,4 +1,3 @@
-# Automated Fraud Alert and Reporting using AI
 
 ## Introduction
 

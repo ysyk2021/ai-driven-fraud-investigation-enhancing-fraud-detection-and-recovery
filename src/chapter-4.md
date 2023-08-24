@@ -1,5 +1,3 @@
-Chapter 4: Enhancing Fraud Analysis with AI
-===========================================
 
 Fraud analysis is a critical aspect of fraud detection and prevention. Traditional methods of fraud analysis can be time-consuming and inefficient, leading to delays in identifying fraudulent activity. In this chapter, we will explore how AI can be used to enhance fraud analysis.
 

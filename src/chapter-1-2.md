@@ -1,5 +1,3 @@
-Benefits of Incorporating AI into Fraud Investigation Practices
-=========================================================================================================================
 
 AI-driven fraud investigation has the potential to revolutionize traditional methods of fraud detection and prevention. In this chapter, we will explore the benefits of incorporating AI into fraud investigation practices.
 

@@ -1,4 +1,3 @@
-# Selecting the Right Tools for Your Fraud Investigation Needs
 
 In the field of fraud investigation, selecting the right tools and technologies is crucial for effective detection and recovery. With the rise of artificial intelligence (AI), a wide range of tools and technologies are available to support AI-driven fraud investigations. This chapter aims to guide fraud investigators in understanding and choosing the most suitable tools for their specific fraud investigation needs.
 

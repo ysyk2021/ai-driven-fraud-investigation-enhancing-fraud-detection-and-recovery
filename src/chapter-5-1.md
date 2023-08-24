@@ -1,5 +1,3 @@
-AI-Driven Asset Tracing and Recovery Techniques
-============================================================================================
 
 Asset tracing and recovery is an essential aspect of fraud investigation and recovery. However, traditional asset tracing methods can be time-consuming and inefficient, leading to delays in recovery efforts. In this chapter, we will explore how AI can be used to improve asset tracing and recovery techniques.
 

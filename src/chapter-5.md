@@ -1,5 +1,3 @@
-Chapter 5: Improving Fraud Recovery with AI
-===========================================
 
 In this chapter, we'll explore how AI technology can improve fraud recovery efforts. By leveraging AI tools and systems, organizations can enhance their ability to trace and recover assets, as well as provide personalized recommendations and interventions for fraud recovery.
 

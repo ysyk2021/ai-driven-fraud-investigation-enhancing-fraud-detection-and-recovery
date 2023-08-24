@@ -1,5 +1,3 @@
-Chapter 2: Tools and Technologies for AI-Driven Fraud Investigation
-===================================================================
 
 AI-driven fraud investigation requires the use of sophisticated tools and technologies to analyze large volumes of data in real-time. In this chapter, we will provide an overview of available tools and technologies that can be used for AI-driven fraud investigation and discuss how to select the right tools for your fraud investigation needs.
 

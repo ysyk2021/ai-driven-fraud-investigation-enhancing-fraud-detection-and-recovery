@@ -1,5 +1,3 @@
-Mitigating Risks and Ensuring Compliance
-==============================================================================================================
 
 AI-driven fraud investigation requires careful management of ethics and bias to ensure that the results are fair, accurate, and compliant. In this chapter, we will explore some of the ethical considerations and biases that can arise in AI-driven fraud investigation, as well as strategies for mitigating risks and ensuring compliance.
 

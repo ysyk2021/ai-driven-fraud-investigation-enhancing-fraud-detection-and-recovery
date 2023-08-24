@@ -1,5 +1,3 @@
-Chapter 7: Future Trends and Opportunities for AI-Driven Fraud Investigation
-============================================================================
 
 AI-driven fraud investigation is an exciting field with great potential for future innovation. In this chapter, we will explore some of the emerging trends in AI for fraud investigation and management, as well as the new opportunities that AI can unlock for fraud investigation.
 
