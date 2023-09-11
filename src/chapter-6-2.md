@@ -1,5 +1,4 @@
-Chapter: Mitigating Risks and Ensuring Compliance
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the critical role of mitigating risks and ensuring compliance in fraud investigation through the use of artificial intelligence (AI). AI technologies have revolutionized the way organizations approach fraud detection and recovery, providing advanced capabilities for identifying and combating fraudulent activities. By leveraging AI-driven tools and techniques, organizations can mitigate risks, adhere to regulatory requirements, and maintain compliance in their fraud investigation processes. Let's delve into the key aspects of mitigating risks and ensuring compliance using AI in fraud investigation.
 

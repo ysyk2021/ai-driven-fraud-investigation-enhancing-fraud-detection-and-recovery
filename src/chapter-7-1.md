@@ -1,5 +1,4 @@
-Chapter: Emerging Trends in AI for Fraud Investigation and Management
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the emerging trends in artificial intelligence (AI) for fraud investigation and management. As technology continues to advance, new AI-driven approaches are transforming the landscape of fraud detection and recovery. These emerging trends offer exciting possibilities to enhance fraud investigation processes, improve detection rates, and optimize fraud management strategies. Let's delve into the key emerging trends in AI for fraud investigation and management.
 

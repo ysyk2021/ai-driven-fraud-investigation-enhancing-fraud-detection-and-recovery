@@ -1,5 +1,4 @@
-Chapter: AI-Driven Asset Tracing and Recovery Techniques
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the application of artificial intelligence (AI) in asset tracing and recovery within fraud investigation. AI-driven techniques have revolutionized the way organizations identify and recover assets involved in fraudulent activities. By harnessing the power of AI, organizations can enhance their ability to trace and recover misappropriated funds, hidden assets, and other ill-gotten gains. Let's delve into the key aspects of AI-driven asset tracing and recovery techniques.
 

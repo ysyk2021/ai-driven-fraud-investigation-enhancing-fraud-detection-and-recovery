@@ -1,5 +1,4 @@
-Chapter: Unlocking New Opportunities with AI
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various new opportunities that arise with the implementation of artificial intelligence (AI) in fraud investigation. AI technologies have revolutionized the way organizations detect and recover from fraudulent activities, offering unprecedented capabilities and opening doors to innovative approaches. By harnessing the power of AI, organizations can unlock new opportunities to enhance fraud detection, optimize recovery processes, and stay one step ahead of evolving fraud schemes. Let's delve into the key aspects of unlocking new opportunities with AI in fraud investigation.
 
